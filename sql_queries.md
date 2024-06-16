@@ -11,7 +11,6 @@
 ![3](image.png)
 
 #### 4. Write an SQL query to delete a specific enrollment record, choosing based on the student and course.
-
 ![4](image-1.png)
 
 #### Update a course to assign a specific teacher using the "Courses" table.
@@ -25,3 +24,7 @@
 ![9](image-5.png)
 #### 10. List names of teachers and the courses they are assigned to.
 ![10](image-6.png)
+#### 11. Calculate the average number of students enrolled in each course using aggregate functions and subqueries.
+![11](image-8.png)
+#### 12. Identify the student(s) who made the highest payment using a subquery.
+![12](image-9.png)
