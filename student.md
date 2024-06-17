@@ -57,6 +57,6 @@ This assessment is designed to evaluate your proficiency in SQL through practica
 12. Identify the student(s) who made the highest payment using a subquery.
 13. Retrieve a list of courses with the highest number of enrollments using subqueries.
 14. Calculate the total payments made to courses taught by each teacher using subqueries.
-15. Identify students who are enrolled in more than one course.
+.15. Identify students who are enrolled in more than one course
 
 Please make sure to create your own data for these tables to test your queries effectively.
